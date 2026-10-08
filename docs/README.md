@@ -217,7 +217,6 @@
 В таблице ниже представлена история коммитов проекта (за исключением последнего коммита, создающего данный файл документации):
 
 | **Хеш коммита** | **Сообщение коммита** | 
-| `d078c8d` | Add triangle.py | 
-| `a5f1e2b` | Add rectangle.py | 
+|`5da79b9`| added both rectangle.py, triangle.py and md file |
 | `d070a2b` | L-03: Docs added | 
 | `8ba9a03` | Circle and square added | 
