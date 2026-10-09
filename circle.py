@@ -9,10 +9,6 @@ def area(r):
             r(int/float) : radius
         Output:
             area_of_circle(float)
-        
-        Пример вызова:
-            area(5)
-            >>> 78.53981633974483
     """
     return math.pi * r * r
 
